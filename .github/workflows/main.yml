@@ -8,6 +8,6 @@ jobs:
   run-script:
      runs-on: ubantu-latest
 
-  steps:
-    - name: Print Message
+steps:
+  - name: Print Message
       run: echo "schedule execute"
